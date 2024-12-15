@@ -1,36 +1,61 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Hunter</h1>
-<h3 align="center">Junior at Boston College, Business Analyst & Data Scientist</h3>
+<h3 align="center">Business Analyst & Data Scientist | Junior at Boston College</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunterschep&label=Profile%20views&color=0e75b6&style=flat" alt="hunterschep" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunterschep" alt="hunterschep" /></a> </p>
-
-- 🔭 I’m currently working on [Machine Translation](private)
-
-- 🌱 I’m currently learning **Natural Language Processing & Computer Systems**
-
-- 👯 I’m looking to collaborate on [EaglePlanner](private)
-
-- 🤝 I’m looking for help with [QuoteNest](private)
-
-- 📝 I regularly write articles on [https://substack.com/@hunterscheppat](https://substack.com/@hunterscheppat)
-
-- 💬 Ask me about **data analysis / visualization**
-
-- 📫 How to reach me **hunter.scheppat@bc.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hunterscheppat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hunterscheppat" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hunterschep&label=Profile%20Views&color=0e75b6&style=flat" alt="hunterschep" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunterschep&show_icons=true&locale=en&layout=compact" alt="hunterschep" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunterschep&show_icons=true&locale=en" alt="hunterschep" /></p>
+- 🔭 Currently working on **Machine Translation**  
+- 🌱 Learning **Natural Language Processing** and **Computer Systems**  
+- 👯 Collaborating on **EaglePlanner** (private project)  
+- 🤝 Open to contributions on **QuoteNest**  
+- 📝 Writing at [My Substack](https://substack.com/@hunterscheppat)  
+- 💬 Ask me about **data analysis, machine learning, and visualization**  
+- 📫 Reach me at **hunter.scheppat@bc.edu**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunterschep&" alt="hunterschep" /></p>
+---
+
+### 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,swift,html,css,tailwind,js,react,nodejs,git,mysql,sqlite,postgresql,figma,tensorflow,pytorch&theme=light" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hunterschep&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hunterschep&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterschep&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contributions
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hunterschep&theme=rogue" alt="Activity Graph" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/hunterscheppat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hunter.scheppat@bc.edu">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
