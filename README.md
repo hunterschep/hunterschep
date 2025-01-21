@@ -10,8 +10,6 @@
 ### 🚀 About Me
 
 - 🔭 Studying Management & Computer Science at Boston College
-- 📝 Writing at [My Substack](https://substack.com/@hunterscheppat)  
-- 💬 Ask me about **data analysis, machine learning, and visualization**  
 - 📫 Reach me at **hunter.scheppat@bc.edu**
 
 ---
