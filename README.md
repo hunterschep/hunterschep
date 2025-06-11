@@ -24,8 +24,6 @@ class Hunter:
         self.role = "Business Analyst & Data Scientist"
         self.education = "Boston College - Management & Computer Science"
         self.location = "Boston, MA & Seattle, WA"
-        self.interests = ["Data Analytics", "Machine Learning", "Business Intelligence", "Cybersecurity", "Product Management"]
-        self.currently_learning = ["AWS/Azure/GCP", "DBMS Tools"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something cool!")
