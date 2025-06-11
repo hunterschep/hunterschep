@@ -94,11 +94,7 @@ me.say_hi()
 
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.2%
-R            4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   23.1%
-SQL          2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.8%
-JavaScript   1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    9.7%
-Other        55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    5.2%
+Not enough... 
 ```
 <!--END_SECTION:waka-->
 
