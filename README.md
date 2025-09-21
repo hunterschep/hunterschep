@@ -32,5 +32,3 @@ Sometimes it works out.
 - hunter.scheppat@bc.edu  
 
 ---
-
-> *This page intentionally left under-designed.*
