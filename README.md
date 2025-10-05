@@ -2,13 +2,11 @@
 
 Hi. I’m Hunter.  
 I study **Management & Computer Science** at Boston College.  
-Sometimes I mess around code.  
-Sometimes it works out.
 
 ---
 
 ## About
-- Python, R, SQL, and the usual suspects  
+- Python, R, SQL, etc 
 
 ---
 
