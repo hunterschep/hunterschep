@@ -6,20 +6,8 @@ I study **Management & Computer Science** at Boston College.
 ---
 
 ## About
-- Python, R, SQL, etc 
 
----
-
-## Projects
-- 📊 Built reporting automations (SAS → Python → PowerBI)  
-- 🤖 Machine translation for endangered languages
-- 📈 Random simulations for finance/econ problems  
-- 🖥️ Side projects: chat apps, dashboards, class tools
-
----
-
-## Currently
-- Learning cloud
+F100 experience in cybersecurity & data analytics. ML researcher. 
 
 ---
 
