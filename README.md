@@ -1,14 +1,13 @@
 # Hunter Scheppat
 
-Hi. I’m Hunter.  
-I study **Management & Computer Science** at Boston College.  
+Hi. I’m Hunter. I have a lot of different interests, poke through my repos :) 
 
 ## About
 
-F100 experience in cybersecurity & data analytics. ML researcher. 
+F100 experience in cybersecurity & data analytics. ML/NLP researcher. 
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/hunterscheppat)  
 - [GitHub](https://github.com/hunterschep)
 - [Website](https://hunterschep.github.io/website/)  
-- hunter.scheppat@bc.edu  
+- hunterschep@gmail.com
