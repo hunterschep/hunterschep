@@ -1,10 +1,12 @@
 # Hunter Scheppat
 
-Hi. I’m Hunter. I have a lot of different interests, poke through my repos :) 
+*Hello* 
 
-## About
+I am a Solutions Architect @ Amazon Web Services. 
 
-F100 experience in cybersecurity & data analytics. ML/NLP researcher. 
+Personal projects are **NOT** affiliated with my employer unless explicitly said so :) 
+
+Interests: NLP/MT/AI
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/hunterscheppat)  
